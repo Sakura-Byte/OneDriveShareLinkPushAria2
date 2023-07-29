@@ -76,6 +76,6 @@ At this time, you need to use the download code for have password link, that is,
 Usage is similar to the above.
 
 # Note
-Before you use it, clone the whole project with `git clone https://github.com/gaowanliang/OneDriveShareLinkPushAria2.git` to use it. havepassword.py depends on main.py, if you want to use the version that requires a password If you want to use a version that requires a password, you need to `pip install pyppeteer`
+Before you use it, clone the whole project with `git clone https://github.com/Sakura-Byte/OneDriveShareLinkPushAria2.git` to use it. havepassword.py depends on main.py, if you want to use the version that requires a password If you want to use a version that requires a password, you need to `pip install pyppeteer`
 
 The basic functions of this program have been realized. For a long time, if the software is not unusable, it will not be maintained. If there is a running problem, please bring a download link when raising the issue. The bug type issue that does not provide a download link will not be solved.
