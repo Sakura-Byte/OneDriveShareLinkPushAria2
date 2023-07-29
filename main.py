@@ -62,9 +62,6 @@ def getFiles(originalPath, req, layers, _id=0):
     # f = open("a.html", "w+", encoding="utf-8")
     # f.write(reqf.text)
     # f.close()
-    if ',"FirstRow"' not in reqf.text:
-        print("\t"*layers, "这个文件夹没有文件")
-        return 0
 
     filesData = []
 
@@ -181,9 +178,6 @@ def downloadFiles(originalPath, req, layers, aria2URL, token, num=[0], _id=0, or
         isSharepoint = True
 
     # f=open()
-    if ',"FirstRow"' not in reqf.text:
-        print("\t"*layers, "这个文件夹没有文件")
-        return 0
 
     filesData = []
     redirectURL = reqf.url
