@@ -67,6 +67,6 @@ python main.py > list.txt
 使用方法和上面类似。
 
 # 注意
-使用前，使用 `git clone https://github.com/gaowanliang/OneDriveShareLinkPushAria2.git` 将项目整个克隆，才能使用，havepassword.py依赖于main.py，如果要使用需要密码的版本，需要 `pip install pyppeteer`
+使用前，使用 `git clone https://github.com/Sakura-Byte/OneDriveShareLinkPushAria2.git` 将项目整个克隆，才能使用，havepassword.py依赖于main.py，如果要使用需要密码的版本，需要 `pip install pyppeteer`
 
 此程序基本功能都已实现，之后很长的一段时间内，如果不是软件无法使用了，则不再维护，如有运行问题，请在提出issue时带上下载链接，不提供下载链接的bug类型的issue将不会解决。
